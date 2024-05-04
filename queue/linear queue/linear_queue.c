@@ -1,4 +1,5 @@
-#include<stdio.h>
++
+ #include<stdio.h>
 #include<conio.h>
 #define max 10
 int rear=-1,queue[max],front=0;
